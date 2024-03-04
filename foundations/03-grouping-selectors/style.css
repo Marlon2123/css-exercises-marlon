@@ -1,0 +1,17 @@
+/* a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback  */
+.both-btn {
+	font-size: 28px;
+	font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+/* a black background, white text color, and a bold font weight */
+.first-btn {
+	background: #000000;
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+}
+
+/* a yellow background */
+.second-btn {
+	background: rgb(255, 255, 46);
+}
